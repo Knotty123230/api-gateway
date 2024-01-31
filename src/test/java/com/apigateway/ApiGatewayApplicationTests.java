@@ -3,10 +3,16 @@ package com.apigateway;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
+/**
+ * The type Api gateway application tests.
+ */
 @SpringBootTest
 class ApiGatewayApplicationTests {
 
-	@Test
+    /**
+     * Context loads.
+     */
+    @Test
 	void contextLoads() {
 	}
 
